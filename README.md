@@ -1,2 +1,2 @@
-# ts-first-practice
-This is the First type script practice
+# ts-second-practice
+This is the second TypeScript practice
